@@ -1,2 +1,2 @@
-# SoftUni
-Tasks from SoftUni course
+# SoftUni with C#
+Exercises from the @SoftUni course

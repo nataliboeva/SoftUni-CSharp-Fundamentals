@@ -1,4 +1,4 @@
-﻿namespace Basic_Syntax_Excercise
+﻿namespace 01.Basic_Syntax_Excercise
 {
     internal class Program
     {

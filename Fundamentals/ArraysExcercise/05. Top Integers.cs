@@ -16,6 +16,7 @@ namespace _05._Top_Integers
                     if (numbers[i] <= numbers[j])
                     {
                         isBigger = false;
+                        break;
                     }
                 }
                 if(isBigger)
